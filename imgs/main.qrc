@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="about">
+    <file>years.png</file>
+    <file>ruta.png</file>
+    <file>excel.png</file>
+    <file>pdfs.png</file>
+    <file>automatizarButton.png</file>
+  </qresource>
+</RCC>
